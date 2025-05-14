@@ -1,9 +1,8 @@
 <form action="action_page.php">
   <div class="container">
     <h1>New user Register for DevOps Learning</h1>
-    <p>Enter name in Capital Letter</p> 
+    <p>Enter Name</p> 
     <hr>
-     
     <label for="Name"><b>Enter Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
@@ -31,7 +30,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Modified 1st time  </h1>
+   <h1> Modified 3rd time using Poll scm  </h1>
 
   
 </form>
