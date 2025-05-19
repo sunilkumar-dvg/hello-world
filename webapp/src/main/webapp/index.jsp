@@ -31,6 +31,6 @@
   </div>
 
 
-   <h1> Thankyou, Happy Learning, Arjun Chauhan</h1>
+   <h1> Thankyou, Happy Learning, Arjun</h1>
      
 </form>
