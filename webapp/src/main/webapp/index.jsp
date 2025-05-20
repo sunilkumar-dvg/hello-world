@@ -10,6 +10,10 @@
     <label for="mobile"><b>Enter mobile</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
+    
+    <label for="address"><b>Enter mobile</b></label>
+    <input type="text" placeholder="address" name="address" id="address" required>
+    <br>
 
     <label for="Gender"><b>Enter Gender</b></label>
     <input type="text" placeholder="Enter Gender" name="Gender" id="Gender" required>
