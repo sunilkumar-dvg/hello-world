@@ -39,6 +39,6 @@
   </div>
 
 
-   <h1> Arjun</h1>
+   <h1>Thank you Arjun</h1>
      
 </form>
