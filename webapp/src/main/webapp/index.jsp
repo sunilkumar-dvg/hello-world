@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register</h1>
+    <h1>User Register</h1>
     <p>Enter Name</p> 
     <hr>
     <label for="Name"><b>Enter Full Name</b></label>
