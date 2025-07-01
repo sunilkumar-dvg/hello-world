@@ -39,6 +39,6 @@
   </div>
 
 
-   <h1>Thank you Arjun Chauhan</h1>
+   <h1>Thank you Arjun Chauhan, Here you did pull the code from github and build the code and deploy on Tomcat-server automatically </h1>
      
 </form>
