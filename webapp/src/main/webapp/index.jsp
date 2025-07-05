@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>User Register</h1>
-    <p>Enter Name</p> 
+     
     <hr>
     <label for="Name"><b>Enter Full Name</b></label>
     <input type="text" placeholder="Enter Name" name="Name" id="Name" required>
@@ -39,6 +39,6 @@
   </div>
 
 
-   <h1>Deploying manually </h1>
+  <h1> Second time manually </h1>
      
 </form>
