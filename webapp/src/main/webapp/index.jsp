@@ -39,6 +39,6 @@
   </div>
 
 
-  <h1> Regapp CI Job </h1>
+  <h1> Regapp CICD Job </h1>
      
 </form>
