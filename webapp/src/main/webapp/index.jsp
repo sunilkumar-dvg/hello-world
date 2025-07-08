@@ -39,6 +39,6 @@
   </div>
 
 
-  <h1> Ansible 42 deployment </h1>
+  <h1> CI Job </h1>
      
 </form>
