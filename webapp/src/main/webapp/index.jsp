@@ -39,6 +39,6 @@
   </div>
 
 
-  <h1> Regapp CICD Job </h1>
+  <h1>You completed CI-CD Job--Thank You  </h1>
      
 </form>
